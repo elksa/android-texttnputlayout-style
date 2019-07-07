@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Test TextInputlayout</string>
     <string name="hint_phone">Phone enabled</string>
+    <string name="hint_phone_not_focused">Phone not focused</string>
+    <string name="hint_phone_error">Phone error</string>
+    <string name="hint_deactivated">Hint disabled</string>
+    <string name="txt_disabled">This input text is disabled</string>
+    <string name="error_phone">Invalid phone number</string>
+    <string name="btn_change_enabled_status">Change status</string>
 </resources>
