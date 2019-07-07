@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test TextInputlayout</string>
+    <string name="hint_phone">Phone enabled</string>
+</resources>

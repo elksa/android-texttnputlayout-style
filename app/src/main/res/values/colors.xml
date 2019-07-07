@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9104</color>
+    <color name="colorPrimaryDark">#192949</color>
+    <color name="colorAccent">#03C4FF</color>
+
+
+    <color name="red_error">#FF0000</color>
+
+    <!--
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#01A0DA</color>
+    <color name="mtrl_textinput_disabled_color" tools:override="true">#fd7e23</color>
+    -->
+</resources>
